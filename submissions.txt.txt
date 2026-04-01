@@ -1,0 +1,8 @@
+# Menjalankan skrip
+python main.py
+
+# Menjalankan unit test pada folder tests
+pytest
+
+# Menjalankan test coverage pada folder tests
+pytest --cov=utils
